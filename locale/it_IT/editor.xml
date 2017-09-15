@@ -211,6 +211,7 @@
 	<message key="editor.notifyUsers.allInstitutionalSubscribers">Tutti gli abbonati enti ({$count} utenti)</message>
 	<message key="editor.reassign">Riassegna</message>
 	<message key="editor.publicIdentificationExists">L'identificatore pubblico  '{$publicIdentifier}' già esiste per un altro oggetto (fascicoli, articolo o file). Definisci identificatori unici nella rivista.</message>
+	<message key="editor.publicGalleyIdentificationExists">L'identificativo pubblico '{$publicIdentifier}' già esiste per un'altra gabbia di questo articolo. Per favore scegli un id univoca per questa giabbia dell'articolo.</message>
 	<message key="editor.issues.galleys">Gabbie del fascicolo</message>
 	<message key="editor.issues.galley">Gabbia del fascicolo</message>
 	<message key="editor.issues.viewingGalley">Vedi la bozza del fascicolo</message>
